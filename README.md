@@ -2,7 +2,7 @@
 
 ## Blog post
 
-[Building Your First CrewAI Tool: Tavily Search Walkthrough](https://www.zinyando.com/)
+[Building Your First CrewAI Tool: Tavily Search Walkthrough](https://www.zinyando.com/building-your-first-crewai-tool-tavily-search-walkthrough/)
 
 ## Installation
 
