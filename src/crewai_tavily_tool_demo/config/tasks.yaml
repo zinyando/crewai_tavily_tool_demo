@@ -1,0 +1,6 @@
+assistant_task:
+  description: >
+    Reply the user who sent the input: {user_input}
+  expected_output: >
+    An answer to the user input: {user_input}
+  agent: assistant
